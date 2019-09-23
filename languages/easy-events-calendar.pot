@@ -1,0 +1,147 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Language: \n"
+"POT-Creation-Date: 2019-09-19 04:07+0000\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-easy-events-calendar-admin.php:69
+msgctxt "Post type general name"
+msgid "Events"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:70
+msgctxt "Post type singular name"
+msgid "Event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:71
+msgctxt "Admin Menu text"
+msgid "Events"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:72
+msgctxt "Add New on Toolbar"
+msgid "Event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:73
+msgid "Add new"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:74
+msgid "Add new event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:75
+msgid "New event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:76
+msgid "Edit event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:77
+msgid "View event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:78
+msgid "All events"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:79
+msgid "Search events"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:80
+msgid "Parent event:"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:81
+msgid "Not found."
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:82
+msgid "Event not found in trash."
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:83
+msgctxt ""
+"Overrides the “Featured Image” phrase for this post type. Added in 4.3"
+msgid "Featured image"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:84
+msgctxt ""
+"Overrides the “Set featured image” phrase for this post type. Added in 4.3"
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:85
+msgctxt ""
+"Overrides the “Remove featured image” phrase for this post type. Added in 4.3"
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:86
+msgctxt ""
+"Overrides the “Use as featured image” phrase for this post type. Added in 4.3"
+msgid "Use featured image"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:87
+msgctxt ""
+"Overrides the “Insert into post”/”Insert into page” phrase (used when "
+"inserting media into a post). Added in 4.4"
+msgid "Insert into event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:88
+msgctxt ""
+"Overrides the “Uploaded to this post”/”Uploaded to this page” phrase (used "
+"when viewing media attached to a post). Added in 4.4"
+msgid "Uploaded to this event"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:89
+msgctxt ""
+"Screen reader text for the filter links heading on the post type listing "
+"screen. Default “Filter posts list”/”Filter pages list”. Added in 4.4"
+msgid "Filter events list"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:90
+msgctxt ""
+"Screen reader text for the pagination heading on the post type listing "
+"screen. Default “Posts list navigation”/”Pages list navigation”. Added in 4.4"
+msgid "Events list"
+msgstr ""
+
+#: admin/class-easy-events-calendar-admin.php:91
+msgctxt ""
+"Screen reader text for the items list heading on the post type listing "
+"screen. Default “Posts list”/”Pages list”. Added in 4.4"
+msgid "List Events"
+msgstr ""
+
+#. Name of the plugin
+msgid "Easy Events Calendar"
+msgstr ""
+
+#. Description of the plugin
+msgid "This is the Easy Events Calendar, a challenger plugin for Lottabene.de."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/dedevillela/easy-events-calendar"
+msgstr ""
+
+#. Author of the plugin
+msgid "André Aguiar Villela"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://dedevillela.com/"
+msgstr ""
